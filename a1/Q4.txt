@@ -1,0 +1,3 @@
+Intel computers use big-Endian integers. 
+RA - 65F607
+D - 8151DEFF

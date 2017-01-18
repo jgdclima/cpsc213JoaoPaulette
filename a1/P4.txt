@@ -1,0 +1,33 @@
+Tests:
+0 0 0 1
+Big-Endian value at address 0 is 1
+Little-Endian value at address 0 is 4096
+
+1 0 0 0
+Big-Endian value at address 0 is 4096
+Little-Endian value at address 0 is 1
+
+0 0 0 0
+Big-Endian value at address 0 is 0
+Little-Endian value at address 0 is 0
+
+0 0 0 0
+Big-Endian value at address 0 is 0
+Little-Endian value at address 0 is 0
+
+1 1 1 1
+Big-Endian value at address 0 is 4369
+Little-Endian value at address 0 is 4369
+
+F F F F
+Big-Endian value at address 0 is 65535
+Little-Endian value at address 0 is 65535
+
+01 11 11 f1
+Big-Endian value at address 0 is 8705
+Little-Endian value at address 0 is 0-56815 (overflow)
+
+
+
+
+

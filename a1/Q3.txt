@@ -1,0 +1,2 @@
+11111111
+Anything as long as each byte is identical.
